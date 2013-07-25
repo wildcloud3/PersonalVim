@@ -13,6 +13,8 @@
 @rem set PLINK_PROTOCOL=ssh
 @rem if not defined TERM set TERM=msys
 
+@set vim_runtime="c:\Users\LEE\Desktop\GreenSoftware\PersonalVim\vim74a"
+
 @rem cd %HOME%
 @rem start %COMSPEC%
-@start ./gvim.exe %*
+@start c:\Users\LEE\Desktop\GreenSoftware\PersonalVim\vim74a\gvim.exe %*

@@ -1,0 +1,5 @@
+let $VIM="d:/Claud.LI/Software/PersonalVim"
+
+set rtp+=$VIM/settings/vimfiles
+
+source $VIM/settings/_vimrc

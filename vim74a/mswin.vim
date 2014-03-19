@@ -24,12 +24,12 @@ set backspace=indent,eol,start whichwrap+=<,>,[,]
 vnoremap <BS> d
 
 " CTRL-X and SHIFT-Del are Cut
-vnoremap <C-X> "+x
-vnoremap <S-Del> "+x
+"vnoremap <C-X> "+x
+"vnoremap <S-Del> "+x
 
 " CTRL-C and CTRL-Insert are Copy
-vnoremap <C-C> "+y
-vnoremap <C-Insert> "+y
+"vnoremap <C-C> "+y
+"vnoremap <C-Insert> "+y
 
 " CTRL-V and SHIFT-Insert are Paste
 map <C-V>		"+gP

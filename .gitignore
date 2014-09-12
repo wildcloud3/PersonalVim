@@ -1,2 +1,5 @@
 _undodir/
 vim74a/vimfiles/view/
+vimfiles/sessions/
+_viminfo
+yankring_history_v2.txt
